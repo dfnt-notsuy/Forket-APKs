@@ -40,6 +40,7 @@ Forket là ứng dụng Android bên thứ ba, không phải ứng dụng chính
 - [📱 Yêu cầu và quyền ứng dụng](#permissions)
 - [⚠️ Lưu ý](#notes)
 - [🤝 Cộng đồng và hỗ trợ](#support)
+- [🙏 Credits](#credits)
 
 <a id="features"></a>
 ## ✨ Tính năng
@@ -118,6 +119,18 @@ Một số tính năng cần đăng nhập, quyền phù hợp hoặc gói tài 
 - [Nhóm chat Telegram](https://t.me/+9Hh-mUgOejU4ZDI9)
 
 Khi báo lỗi, hãy ghi phiên bản Forket và phiên bản Android. Không đăng mật khẩu, mã xác thực, token đăng nhập hoặc dữ liệu riêng tư lên issue công khai.
+
+<a id="credits"></a>
+## 🙏 Credits
+
+Cảm ơn các dự án và nguồn tài nguyên đã đóng góp hoặc truyền cảm hứng cho Forket:
+
+- [Miuix](https://github.com/compose-miuix-ui/miuix) — Miuix theme.
+- [COUI](https://github.com/suqi8/coui) — COUI theme.
+- [Photobooth Frames](https://photo.freehihi.com/app) — khung ảnh.
+- [Locket-Dio Project](https://github.com/doi2523/Client-Locket-Dio) — dự án nền tảng.
+- [Solar Icons](https://solar-icons.dev/icons) — biểu tượng.
+- Và nhiều dự án, tác giả, nguồn tham khảo khác mà chúng tôi chưa kịp liệt kê đầy đủ.
 
 ---
 
