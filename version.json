@@ -1,16 +1,16 @@
 {
-  "latest_version": "1.4.0",
-  "latest_version_code": 1400,
-  "tag": "v1.4.0",
-  "published_at": "2026-11-22T12:42:47Z",
+  "latest_version": "1.4.1",
+  "latest_version_code": 1410,
+  "tag": "v1.4.1",
+  "published_at": "2026-11-22T15:39:06Z",
   "grace_hours": 24,
   "force_immediately": false,
   "min_supported_version_code": 0,
   "apk_assets": {
-    "arm64-v8a": "forket-1.4.0-arm64-v8a-release.apk",
-    "armeabi-v7a": "forket-1.4.0-armeabi-v7a-release.apk",
-    "x86_64": "forket-1.4.0-x86_64-release.apk",
-    "x86": "forket-1.4.0-x86-release.apk",
-    "universal": "forket-1.4.0-universal-release.apk"
+    "arm64-v8a": "forket-1.4.1-arm64-v8a-release.apk",
+    "armeabi-v7a": "forket-1.4.1-armeabi-v7a-release.apk",
+    "x86_64": "forket-1.4.1-x86_64-release.apk",
+    "x86": "forket-1.4.1-x86-release.apk",
+    "universal": "forket-1.4.1-universal-release.apk"
   }
 }
